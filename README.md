@@ -1,4 +1,5 @@
-### Hi there 👋
+## AEMR Market Analysis
+### This analysis portrays my proficiency in Data Manipulation, Data Visualization, Statistical Analysis, 
 
 <!--
 **graceclinard30/graceclinard30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
